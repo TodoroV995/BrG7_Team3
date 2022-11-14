@@ -1,0 +1,8 @@
+Ivana (14.11): 
+- sreduvanje na notebook (naslovi, steps, opis na procesot, preliminarni zaklucoci)
+- vizuelizacija (dendogram)
+- cistenje na dopolnitelni stop words
+- shteluvanje na parametrite kaj BoW i TFIDF
+- izrabotka na Project Documentation 
+
+- prasanja za Gorjan: do koga/kako da cistime stop words, koi parametri od BoW i TFIDF da gi shteluvame dopolnitelno. 
