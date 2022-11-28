@@ -5,7 +5,7 @@
 
 ##### After processing the data (tweets) we used them to confirm health news trends for different years, by different media outlet (source) and we compared two or more media outlets to find similar trends in reporting on health news. 
 
-##### Findings: According to the clients' needs this analysis can be done to compare two or more sources (media outlets) and analysis can be done by year and month in the period of 2011-2015. The analysis can compare similarity between the content of tweets released by a certain media outlet and/or the month and year when it was done. Further analysis can identify top trends and also top terms that were tweetet by media outlet throughout the months in 2011-2015. 
+##### Findings: According to the clients' needs this analysis can be done to compare two or more sources (media outlets) and analysis can be done by year and month in the period of 2011-2015. The analysis can compare similarity between the content of tweets released by a certain media outlet and/or the month and year when it was done. Further analysis can identify top trends and also top terms that were tweeted by media outlet throughout the months in 2011-2015. 
 
 
 ![TopHealthTopics2014_1](https://user-images.githubusercontent.com/100567867/204260311-cba9f72f-a485-4771-a069-7900ba6e9b30.png)
