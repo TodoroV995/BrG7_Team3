@@ -12,3 +12,5 @@
 ![TopHealthTopics2014_2](https://user-images.githubusercontent.com/100567867/204260329-827d0d05-0f66-44c5-b925-f53f555a9891.png)
 
 ##### The word clouds displayed show the most frequent words contained in tweets for each media outlet in the whole of 2014. The findings are consistent with the type of media outlet (national service, NGO or entertainment) and the territory it covers (global vs national). 'Ebola' is still the dominating term in 2014, again because of the big Ebola outbreak in West Afrika in 2014-2016.  
+
+##### For more insights into the libraries, text processing and clustering algorithms that we used in this project, please check out our Jupyther Notebooks and the project documentation file. Thank you for reading! 
